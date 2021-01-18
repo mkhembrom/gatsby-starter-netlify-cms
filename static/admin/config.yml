@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: mkhembrom/gatsby-starter-netlify-cms
-  open_authoring: true
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
